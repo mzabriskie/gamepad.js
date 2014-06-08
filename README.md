@@ -37,14 +37,3 @@ I haven't been able to find any libraries for interacting with the HTML5 Gamepad
 
 - Verbose
 - Conditional testing for which button
-
-
-## Mapping Approach
-
-```
-	Gamepad.player(1).
-```
-
-**Pros**
-
-**Cons**
